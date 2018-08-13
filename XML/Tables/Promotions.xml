@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xmlDS>
+  <promotions>
+    <prom_id>1</prom_id>
+    <prom__prod_id>1</prom__prod_id>
+    <prom_procent>1</prom_procent>
+    <prom_user_mod>sys</prom_user_mod>
+    <prom_date_mod>2017-09-03T19:44:07.940</prom_date_mod>
+  </promotions>
+</xmlDS>

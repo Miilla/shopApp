@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xmlDS>
+<groups>
+  <grou_id>1</grou_id>
+  <grou_name>Administratorzy</grou_name>
+  <grou_permissions>-1</grou_permissions>
+  <grou_user_mod>sys</grou_user_mod>
+  <grou_date_mod>2017-09-03T19:35:39.667</grou_date_mod>
+</groups>
+<groups>
+  <grou_id>2</grou_id>
+  <grou_name>Własciciele</grou_name>
+  <grou_permissions>1</grou_permissions>
+  <grou_user_mod>sys</grou_user_mod>
+  <grou_date_mod>2017-09-03T19:35:39.667</grou_date_mod>
+</groups>
+<groups>
+  <grou_id>3</grou_id>
+  <grou_name>Pracownicy</grou_name>
+  <grou_permissions>2</grou_permissions>
+  <grou_user_mod>sys</grou_user_mod>
+  <grou_date_mod>2017-09-03T19:35:39.670</grou_date_mod>
+</groups>
+<groups>
+  <grou_id>4</grou_id>
+  <grou_name>Magazynierzy</grou_name>
+  <grou_permissions>3</grou_permissions>
+  <grou_user_mod>sys</grou_user_mod>
+  <grou_date_mod>2017-09-03T19:35:39.670</grou_date_mod>
+</groups>
+<groups>
+  <grou_id>5</grou_id>
+  <grou_name>Sprzedawcy</grou_name>
+  <grou_permissions>4</grou_permissions>
+  <grou_user_mod>sys</grou_user_mod>
+  <grou_date_mod>2017-09-03T19:35:39.673</grou_date_mod>
+</groups>
+<groups>
+  <grou_id>6</grou_id>
+  <grou_name>Klienci</grou_name>
+  <grou_permissions>5</grou_permissions>
+  <grou_user_mod>sys</grou_user_mod>
+  <grou_date_mod>2017-09-03T19:35:39.673</grou_date_mod>
+</groups>
+</xmlDS>

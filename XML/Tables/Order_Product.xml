@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xmlDS>
+<order_product>
+  <orpr_id>1</orpr_id>
+  <orpr_orde_id>2</orpr_orde_id>
+  <orpr_prod_id>1</orpr_prod_id>
+  <orpr_status>1</orpr_status>
+  <orpr_user_mod>sys</orpr_user_mod>
+  <orpr_date_mod>2017-09-03T19:35:39.810</orpr_date_mod>
+</order_product>
+<order_product>
+  <orpr_id>2</orpr_id>
+  <orpr_orde_id>2</orpr_orde_id>
+  <orpr_prod_id>2</orpr_prod_id>
+  <orpr_status>1</orpr_status>
+  <orpr_user_mod>sys</orpr_user_mod>
+  <orpr_date_mod>2017-09-03T19:35:39.813</orpr_date_mod>
+</order_product>
+<order_product>
+  <orpr_id>3</orpr_id>
+  <orpr_orde_id>2</orpr_orde_id>
+  <orpr_prod_id>3</orpr_prod_id>
+  <orpr_status>1</orpr_status>
+  <orpr_user_mod>sys</orpr_user_mod>
+  <orpr_date_mod>2017-09-03T19:35:39.817</orpr_date_mod>
+</order_product>
+</xmlDS>

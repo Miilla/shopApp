@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xmlDS>
+<clients>
+  <clie_id>1</clie_id>
+  <clie_user_id>6</clie_user_id>
+  <clie_bdate>1992-12-20</clie_bdate>
+  <clie_sex>m</clie_sex>
+  <clie_saldo>100.00</clie_saldo>
+  <clie_nip>12345678912</clie_nip>
+  <clie_street>Wolska</clie_street>
+  <clie_home>12</clie_home>
+  <clie_city>Warszawa</clie_city>
+  <clie_zip>00-139</clie_zip>
+  <clie_user_mod>sys</clie_user_mod>
+  <clie_date_mod>2017-09-03T19:35:39.773</clie_date_mod>
+</clients>
+<clients>
+  <clie_id>2</clie_id>
+  <clie_user_id>7</clie_user_id>
+  <clie_bdate>1950-12-20</clie_bdate>
+  <clie_sex>m</clie_sex>
+  <clie_saldo>150.00</clie_saldo>
+  <clie_nip>12345478912</clie_nip>
+  <clie_street>Anielewicza</clie_street>
+  <clie_home>33</clie_home>
+  <clie_city>Warszawa</clie_city>
+  <clie_zip>00-139</clie_zip>
+  <clie_user_mod>sys</clie_user_mod>
+  <clie_date_mod>2017-09-03T19:35:39.780</clie_date_mod>
+</clients>
+</xmlDS>

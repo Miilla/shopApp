@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xmlDS>
+<orders>
+  <orde_id>1</orde_id>
+  <orde_clie_id>1</orde_clie_id>
+  <orde_stat_id>1</orde_stat_id>
+  <orde_date>2017-09-03T19:35:39.790</orde_date>
+  <orde_user_mod>sys</orde_user_mod>
+  <orde_date_mod>2017-09-03T19:35:39.793</orde_date_mod>
+</orders>
+<orders>
+  <orde_id>2</orde_id>
+  <orde_clie_id>2</orde_clie_id>
+  <orde_stat_id>2</orde_stat_id>
+  <orde_date>2017-09-03T19:35:39.800</orde_date>
+  <orde_user_mod>sys</orde_user_mod>
+  <orde_date_mod>2017-09-03T19:35:39.800</orde_date_mod>
+</orders>
+</xmlDS>

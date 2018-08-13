@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xmlDS>
+<products>
+  <prod_id>1</prod_id>
+  <prod_name>Mysz ZOWIE FK1</prod_name>
+  <prod_quantity>3</prod_quantity>
+  <prod_cate_id>1</prod_cate_id>
+  <prod_price>239.99</prod_price>
+  <prod_desc>Producent gamingowych myszek oraz nasz rodak Filip NEO Kubski zaprojektowali razem ponad rok temu myszke dla graczy o nazwie FK. 
+		   Wziela sie ona oczywiscie z inicjalow naszego gracza, ktory w tym roku miedzy innymi wygral turniej Counter Strike na Intel Extreme Masters w Katowicach, 
+		   a na wielu zagranicznych serwisach jest on uwazany za najlepszego gracza dekady. 
+		   Po wielu nowych testach, producent pragnal odswiezyc myszke ustawiajac w niej nowy bardziej zaawansowany sensor Avago ADNS-3310, ktory potrafi 
+		   o wiele bardziej wychwytywac szczegolnie szybkie ruchy w czasie gier typu FPS.</prod_desc>
+  <prod_banner>1</prod_banner>
+  <prod_path>zowiefk1</prod_path>
+  <prod_user_mod>sys</prod_user_mod>
+  <prod_date_mod>2017-09-03T19:35:39.637</prod_date_mod>
+</products>
+<products>
+  <prod_id>2</prod_id>
+  <prod_name>Mysz A4 Tech Bloody</prod_name>
+  <prod_quantity>4</prod_quantity>
+  <prod_cate_id>1</prod_cate_id>
+  <prod_price>159.99</prod_price>
+  <prod_desc>Mysz gamingowa posiadajaca innowacyjny system Multi-Core. Wyposazona jest w 3 dodatkowe przyciski,
+		    pozwalajace na szybka zmiane trybu strzelania. Wyposazona jest w metalowe slizgacze. Czas zwloki V8 wynosi tylko 1ms.
+		    W normalnych myszach gamingowych jest to okolo 18ms. Zaprojektowana tak, aby bezblednosc strzalow byla jak najwieksza. Produkt z nie odblokowanym Core3. </prod_desc>
+  <prod_banner>0</prod_banner>
+  <prod_path>bloody4tech</prod_path>
+  <prod_user_mod>sys</prod_user_mod>
+  <prod_date_mod>2017-09-03T19:35:39.643</prod_date_mod>
+</products>
+<products>
+  <prod_id>3</prod_id>
+  <prod_name>Mysz Tracer Recon</prod_name>
+  <prod_quantity>1</prod_quantity>
+  <prod_cate_id>1</prod_cate_id>
+  <prod_price>259.99</prod_price>
+  <prod_desc>Recon o kodzie TRAMYS43270 to mysz marki Tracer w kolorze czarnym. Komunikuje sie z komputerem przewodowo, za pomoca kabla ze zlaczem USB. 
+		   Posiada 9 przyciskow oraz laserowy sensor Avago 9500. Mysz umozliwia zmiane rozdzielczosci DPI - 500, 1000, 1500, 2000, 3000, 4000 i 5000.</prod_desc>
+  <prod_banner>0</prod_banner>
+  <prod_path>tracerrecton</prod_path>
+  <prod_user_mod>sys</prod_user_mod>
+  <prod_date_mod>2017-09-03T19:35:39.647</prod_date_mod>
+</products>
+<products>
+  <prod_id>4</prod_id>
+  <prod_name>Klawiatura Gigabyte Force K7</prod_name>
+  <prod_quantity>2</prod_quantity>
+  <prod_cate_id>2</prod_cate_id>
+  <prod_price>459.99</prod_price>
+  <prod_desc>Dzieki wykorzystaniu waskiej budowy typu scissor-key, klawiatura FORCE K7 zapewnia bardzo krotka odleglosc wyzwalania 
+i stabilne naciskanie przyciskow. Bardzo waskie nasadki klawiszy, minimalizuja takze wysilek podczas pisania na klawiaturze.</prod_desc>
+  <prod_banner>1</prod_banner>
+  <prod_path>gigabiteForceK7</prod_path>
+  <prod_user_mod>sys</prod_user_mod>
+  <prod_date_mod>2017-09-03T19:35:39.650</prod_date_mod>
+</products>
+<products>
+  <prod_id>5</prod_id>
+  <prod_name>Klawiatura Natec Genesis RX22</prod_name>
+  <prod_quantity>1</prod_quantity>
+  <prod_cate_id>2</prod_cate_id>
+  <prod_price>329.99</prod_price>
+  <prod_desc>Podswietlana klawiatura gamingowa Natec Genesis RX22 to produkt dedykowany dla graczy, ktorzy za niewielkie pieniadze moga cieszyc sie funkcjonalnym,
+		    wytrzymalym sprzetem w nowoczesnym wydaniu. Dzieki technologii X-Scissors i niskiemu profilowi, klawiatura cechuje sie cicha i precyzyjna praca klawiszy.
+			Wysoka jakosc w niskiej cenie.</prod_desc>
+  <prod_banner>0</prod_banner>
+  <prod_path>natecGenesis</prod_path>
+  <prod_user_mod>sys</prod_user_mod>
+  <prod_date_mod>2017-09-03T19:35:39.653</prod_date_mod>
+</products>
+<products>
+  <prod_id>6</prod_id>
+  <prod_name>Monitor BenQ XL2411Z</prod_name>
+  <prod_quantity>5</prod_quantity>
+  <prod_cate_id>3</prod_cate_id>
+  <prod_price>929.99</prod_price>
+  <prod_desc>Monitor XL2411Z pokazuje prawdziwe przekonanie BenQ, iz Gaming tkwi w szczegolach! Zostal wykonany dla profesjonalnych graczy przy wspolpracy z legendami Counter-Strike.
+		    Oferujemy monitor do gier jak zaden inny   - precyzja i szybkosc,
+		    jaka mozna oczekiwac od wysokiej klasy monitora do gier, teraz masz idealny punkt widokowy nad rywalami we wszystkich grach jakie rozpoczniesz.</prod_desc>
+  <prod_banner>1</prod_banner>
+  <prod_path>benqxl</prod_path>
+  <prod_user_mod>sys</prod_user_mod>
+  <prod_date_mod>2017-09-03T19:35:39.657</prod_date_mod>
+</products>
+<products>
+  <prod_id>7</prod_id>
+  <prod_name>Monitor LG 23MP47HQ-P</prod_name>
+  <prod_quantity>4</prod_quantity>
+  <prod_cate_id>3</prod_cate_id>
+  <prod_price>629.99</prod_price>
+  <prod_desc>Monitor LED o przekatnej 23 i rozdzielczosci FullHD (1920 x 1080), oparty o wysokiej jakosci matryce IPS. 
+		   Czas reakcji wynosi 5ms, a kontrast statyczny 1000:1. Monitor posiada zlacza HDMI oraz D-Sub (VGA).</prod_desc>
+  <prod_banner>0</prod_banner>
+  <prod_path>lg23m</prod_path>
+  <prod_user_mod>sys</prod_user_mod>
+  <prod_date_mod>2017-09-03T19:35:39.657</prod_date_mod>
+</products>
+<products>
+  <prod_id>8</prod_id>
+  <prod_name>Intel Core i7 5960X</prod_name>
+  <prod_quantity>4</prod_quantity>
+  <prod_cate_id>4</prod_cate_id>
+  <prod_price>900.99</prod_price>
+  <prod_desc>Intel Core i7 5960X to topowy procesor z wysokiego segmentu. Jest to najmocniejszy procesor na rynku konsumenckim i absolutnie bezkonkurencyjny produkt.
+		    Wyposazony w 8 rdzeni i mozliwosc przetwarzania 16 watkow pozostawia w tyle kazda inna konstrukcje pod wzgledem wydajnosci. Core i7 5960X nalezy do nowej 
+			rodziny Haswell-E,
+		    ktora niestety nie jest kompatybilna z poprzednia podstawka LGA 2011. Procesory z tej serii wymagaja nowych plyt glownych z ukladem logiki Intel X99. </prod_desc>
+  <prod_banner>1</prod_banner>
+  <prod_path>i759</prod_path>
+  <prod_user_mod>sys</prod_user_mod>
+  <prod_date_mod>2017-09-03T19:35:39.660</prod_date_mod>
+</products>
+<products>
+  <prod_id>9</prod_id>
+  <prod_name>Intel Core i7 5820K</prod_name>
+  <prod_quantity>6</prod_quantity>
+  <prod_cate_id>4</prod_cate_id>
+  <prod_price>800.99</prod_price>
+  <prod_desc>Intel Core i7 5820K to najtanszy procesor rodziny Haswell-E wyposazony jest w 6 rdzeni / 12 watków i - dla odroznienia od reszty modeli - 
+		   tylko 28 linii PCI Express. Dzieki temu jego cena jest zdecydowanie nizsza, chociaz i tak widocznie wyzsza od najszybszego procesora segmentu mainstream, 
+		   czyli Core i7 4790K
+		   . Procesor ten przeznaczony jest do montazu w podstawce LGA 2011 v3, czyli plytach glownych z chipsetem Intel X99.  </prod_desc>
+  <prod_banner>0</prod_banner>
+  <prod_path>i758</prod_path>
+  <prod_user_mod>sys</prod_user_mod>
+  <prod_date_mod>2017-09-03T19:35:39.663</prod_date_mod>
+</products>
+</xmlDS>

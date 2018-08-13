@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pl">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2">
+        <meta charset="iso-8859-2">
+        <title>faktura</title>
+        <link rel="stylesheet" type="text/css" href="meh.css">
+    </head>
+    
+    <body>
+
+        <div id="Content">
+            <div>
+                <div id="div-1a">
+                    <p>Pieczęęęćććććśśśśąąąąąłłłłóóóóóćć firmy<br></p>
+                </div>
+
+                <div id="div-1b">
+                    <p><b>Faktura</b></p>
+                </div>
+                
+                <div id="div-1d">
+                    <p><b>Nr 1/01/2013</b></p>
+                </div>
+
+                <div id="div-1c">
+                    Sprzedawca: <b>Adam Nowak</b> <br>
+                    Adres: <b>ul. Nowoczesna 125, 12-345 Warszawa</b><br>
+                    NIP: <b>987-65-43-123</b>
+                    
+                </div>
+
+                <div id="div-1e">
+                    Nabywca: <b>Krzysztok Niewiadomski</b><br>
+                    Adres: <b>Księgowa 20, 12-345 Warszawa</b><br>
+                    NIP: 789-56-43-123
+                </div>
+
+                <div id="div-1f">
+                    Sposob płatności: <b>Przelew</b>
+                    Termin płatności: <b>2013-01-24</b><br>
+                    Bank: <b>mBank</b>
+                    Numer konta: <b>78 140 0000 0000 0000 1234 5678</b>
+                </div>
+                
+            </div>
+
+        
+        <div>
+        <br>
+        <table border="1" id="tabela">
+            <tr style="background-color: #bababa;">
+                <th>Lp.</th>
+                <th>Nazwa</th>
+                <th>PKWIU</th>
+                <th>Ilość</th>
+                <th>Jm</th>
+                <th>Cena netto</th>
+                <th>Wartość netto</th>
+                <th>Stawka VAT</th>
+                <th>Kwota VAT</th>
+                <th>Wartość brutto</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Usługa graficzna</td>
+                <td></td>
+                <td>1</td>
+                <td></td>
+                <td>123,00</td>
+                <td>123,00</td>
+                <td>23%</td>
+                <td>28,29</td>
+                <td>151,29</td>                
+            </tr>
+
+        </table>
+        
+        </div>
+        
+            <div id="div-sum">
+                <p>Razem do zapłaty: <b>151,29</b></p>
+            </div>
+
+            <div id="div-odb">
+                <p>Podpis odbiorcy</p>
+            </div>
+
+            <div id="div-wys">
+                <p>Podpis wystawiającego</p>
+            </div>
+            
+       </div>
+    </body>
+</html>

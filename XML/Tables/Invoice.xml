@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xmlDS>
+  <invoices>
+    <invo_id>1</invo_id>
+    <invo_clie_id>1</invo_clie_id>
+    <invo_orde_id>1</invo_orde_id>
+    <invo_date>2017-09-03T19:44:07.933</invo_date>
+    <invo_user_mod>sys</invo_user_mod>
+    <invo_date_mod>2017-09-03T19:44:07.940</invo_date_mod>
+  </invoices>
+</xmlDS>

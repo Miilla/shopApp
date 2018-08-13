@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xmlDS>
+<payments>
+  <paym_id>1</paym_id>
+  <paym_direct>0</paym_direct>
+  <paym_clie_id>2</paym_clie_id>
+  <paym_date>2017-09-03T19:35:39.857</paym_date>
+  <paym_value>200</paym_value>
+  <paym_user_mod>sys</paym_user_mod>
+  <paym_date_mod>2017-09-03T19:35:39.863</paym_date_mod>
+</payments>
+</xmlDS>

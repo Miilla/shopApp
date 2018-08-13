@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xmlDS>
+<statuses>
+  <stat_id>1</stat_id>
+  <stat_name>Zamówienie złożone</stat_name>
+</statuses>
+<statuses>
+  <stat_id>2</stat_id>
+  <stat_name>Wysłano</stat_name>
+</statuses>
+<statuses>
+  <stat_id>3</stat_id>
+  <stat_name>Rezygnacja</stat_name>
+</statuses>
+<statuses>
+  <stat_id>4</stat_id>
+  <stat_name>Odebranie</stat_name>
+</statuses>
+</xmlDS>

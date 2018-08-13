@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TableNames>
+  <key id="001">
+    <value>Brinjal</value>
+    <price>100</price>
+    <location>India</location>
+    <season>spring</season>
+  </key>
+  <key id="002">
+    <value>Potato</value>
+    <price>150</price>
+    <location>USA</location>
+    <season>Summer</season>
+  </key>
+  <key id="003">
+    <value>tomato</value>
+    <price>50</price>
+    <location>UK</location>
+    <season>Fall</season>
+  </key>
+
+  <key id="004">
+    <value>carrot</value>
+    <price>20</price>
+    <location>France</location>
+    <season>spring</season>
+  </key>
+
+  <key id="005">
+    <value>Onion</value>
+    <price>300</price>
+    <location>japan</location>
+    <season>Holiday</season>
+  </key>
+
+  <key id="006">
+    <value>Beans</value>
+    <price>40</price>
+    <location>China</location>
+    <season>Fall</season>
+  </key>
+
+  <key id="007">
+    <value>Drum Stick</value>
+    <price>10</price>
+    <location>london</location>
+    <season>Summer</season>
+  </key>
+</TableNames>

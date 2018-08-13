@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\v11.0;Initial Catalog=aspnet-Shop-20151220171845;Integrated Security=SSPI;AttachDBFilename=|DataDirectory|\aspnet-Shop-20151220171845.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="G:\\Dropbox\\inż\\projekty\\Shop\\Shop\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,109 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="ShopCopyForXML.SiteMaster" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <title><%: Page.Title %> - ShopCopyForXML</title>
+    <%--<asp:PlaceHolder runat="server">     
+          <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>  --%>
+    <webopt:BundleReference runat="server" Path="~/Content/css" /> 
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
+</head>
+<body>
+    <form runat="server">
+    <asp:ScriptManager runat="server"  EnablePageMethods="true">
+        <Scripts>
+            
+            <asp:ScriptReference Name="MsAjaxBundle" />
+            <asp:ScriptReference Name="jquery" />
+            <asp:ScriptReference Name="jquery.ui.combined" />
+            <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+            <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+            <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+            <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+            <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+            <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+            <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+            <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+            <asp:ScriptReference Name="WebFormsBundle" />
+            <asp:ScriptReference Path="Scripts/jquery-1.7.1.min.js" />
+            
+
+        </Scripts>
+    </asp:ScriptManager>
+    <header>
+        <div class="content-wrapper">
+            <div class="float-left">
+                <p class="site-title">
+                    <a runat="server" href="~/About.aspx">Shop</a>
+                </p>
+            </div>
+            <div class="float-right">
+                <section id="login">
+                    <table>
+                        <tr>
+                        <%--<td style="width:100%"></td>--%>
+                            
+                        <td id="tddd" runat="server" style="visibility:hidden;width:500px">
+                            Witaj,  <a id="A1" runat="server" class="username" href="~/Accounts/Manage.aspx" title="Zarządzaj swoim kontem">
+                                    <asp:Label ID="LoginName1" runat="server"  CssClass="username" /></a>!
+                        </td>
+                            <td>
+                            <a id="loginLink" visible="false" runat="server" href="~/Default.aspx">Wyloguj</a>
+                        </td>
+                        </tr>
+                    </table>
+                    <asp:LoginView runat="server" ViewStateMode="Disabled">
+                        <AnonymousTemplate>
+                            <ul>
+                                <li><a id="registerLink" visible="false" runat="server" href="~/Account/Register.aspx">Register</a></li>
+                                <li></li>
+                            </ul>
+                        </AnonymousTemplate>
+                        <LoggedInTemplate>
+                            <p>
+                                
+                                <asp:LoginStatus runat="server" LogoutAction="Redirect" LogoutText="Log off" LogoutPageUrl="~/" />
+                            </p>
+                        </LoggedInTemplate>
+                    </asp:LoginView>
+                </section>
+                <nav>
+                    <ul id="menu">
+                        <li><a runat="server" visible="false" href="~/">Home</a></li>
+                        <li><a  id="aAbout" runat="server" visible="false" href="~/About.aspx">Dashboard</a></li>
+                        <li><a id="aContact" runat="server" visible="false" href="~/Contact.aspx">Contact</a></li>
+                        <li><a id="aProducts" runat="server" visible="false" href="~/Products/ProductsReport.aspx">Produkty</a></li>
+                        <li><a id="aStorehouse" runat="server" visible="false" href="~/Storehouse/ProductsReport.aspx">Magazyn</a></li>
+                        <li><a id="aManage" runat="server" visible="false" href="~/Accounts/Manage.aspx">Zarządzaj</a></li>
+                        <li><a id="aClients" runat="server" visible="false" href="~/Clients/ClientsReport.aspx">Klienci</a></li>
+                        <li><a id="aSale" runat="server" visible="false" href="~/Sale/OrderReportSale.aspx">Sprzedaż</a></li>
+                        <li><a id="aPayments" runat="server" visible="false" href="~/Payments/PaymentsReport.aspx">Płatności</a></li>
+                        <li><a id="aStore" runat="server" visible="false" href="~/Shop/Store.aspx">Sklep</a></li>
+                        <li><a id="aOrders" runat="server" visible="false" href="~/Orders/OrderReportOrders.aspx">Zamówienia</a></li>
+                        <li><a id="aRaports" runat="server" visible="false" href="~/Raports/ClientsReport.aspx">Raporty</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+    <div id="body">
+        <asp:ContentPlaceHolder runat="server" ID="FeaturedContent" />
+        <section class="content-wrapper main-content clear-fix">
+            <asp:ContentPlaceHolder runat="server" ID="MainContent" />
+        </section>
+    </div>
+    <footer>
+        <div class="content-wrapper">
+            <div class="float-left">
+                <p>&copy; <%: DateTime.Now.Year %> - Milena Moniszka</p>
+            </div>
+        </div>
+    </footer>
+    </form>
+</body>
+</html>
